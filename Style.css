@@ -1,0 +1,77 @@
+body{
+     background-image: url(https://i.pinimg.com/originals/f1/32/15/f13215a3276ab6f25339d39221caa4aa.jpg);
+     background-repeat: no-repeat;
+     background-attachment: fixed
+}
+
+h1{
+    color: whitesmoke;
+    text-align: center;
+    padding: 4px;
+}
+
+
+section h1{
+    background-color: rgb(119, 5, 5);
+    padding:10px;
+}
+.texto_principal{
+    background-color: black;
+    padding: 10px;
+    color: white;
+    text-align:justify;
+}
+
+.texto_adivinanza{
+    color: white;
+    text-align: center;
+}
+
+h1 img{
+    width:90%;
+}
+.alianza{
+    background-color: rgb(9, 9, 80);
+}
+
+.texto_faccion{
+font-size:2em;
+color: orange;
+}
+
+.carrusel{
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.horda{
+    text-align: center;
+    color: darkred;
+    font-size: 3em;
+    background-color: orange;
+}
+
+.alianza{
+    text-align: center;
+    color:rgb(9, 9, 80);
+    font-size: 3em;
+    background-color: orange;
+}
+footer{
+    padding: 25px;
+    color: orange;
+    background-color: rgb(56, 54, 54);
+}
+h2{
+    text-align: center;
+    background-color: darkorange;
+    padding: 9px;
+    color: black;
+}
+.adivinanza{
+    text-align: right;
+    background-image: url(https://www.publicdomainpictures.net/pictures/40000/velka/dark-background.jpg);
+    background-repeat: no-repeat;
+}
+
